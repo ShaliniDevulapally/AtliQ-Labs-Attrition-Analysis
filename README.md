@@ -78,4 +78,4 @@ The Attrition page analyzes the factors contributing to employee turnover:
 ## **How to Use**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/employee-attrition-analysis.git
+   git clone https://github.com/ShaliniDevulapally/employee-attrition-analysis.git
